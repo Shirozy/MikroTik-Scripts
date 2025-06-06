@@ -1,6 +1,7 @@
 # MikroTik-Scripts INDEX
 
-## SendUptimeToDiscord
+---
+## [SendUptimeToDiscord](https://github.com/Shirozy/MikroTik-Scripts/blob/main/SendUptimeToDiscord.rsc)
 A basic script that will send your routers uptime to a Discord webhook. 
 
 Example:
@@ -14,9 +15,10 @@ Router uptime: 01:12:05
 ```
 You might want to use this in your scheduler to send every 5s, or something similar. 
 ![image](https://github.com/user-attachments/assets/9b0d181b-8d2c-4fe1-a75e-ea7c43be20af)
-#- Warning: This only requires the following permissions: Read, Test.
+Warning: This only requires the following permissions: Read, Test.
 
-## InformationAnnouncer
+---
+## [InformationAnnouncer](https://github.com/Shirozy/MikroTik-Scripts/blob/main/InformationAnnouncer.rsc)
 A script to send the router information to a Discord webhook in a neat Embed message. 
 
 This will show the following information:
