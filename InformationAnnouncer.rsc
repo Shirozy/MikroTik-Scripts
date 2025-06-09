@@ -24,7 +24,7 @@
 }]\
 }"
 
-/tool fetch url="https://discord.com/api/webhooks/1380537006152613948/L5gnJTlW8FfWKv9THB5FR_A1J1H5fs3_NCFR6BpzteN97YVKgB8eTLvQwX76dxLaq1Cw" \
+/tool fetch url="WEBHOOK URL" \
 http-method=post \
 http-header-field="Content-Type: application/json" \
 http-data=$payload \
