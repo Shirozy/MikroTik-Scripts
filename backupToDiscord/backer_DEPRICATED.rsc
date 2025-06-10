@@ -1,6 +1,6 @@
 :local fileName "all"
 :local exportFileName "$fileName.rsc"
-:local webhookUrl "https://discord.com/api/webhooks/1381608057137664060/2wrtzoYD7HwPe7_4ir7Ygr148KZerHSjbImlh3iJDhu29r-EiIHR_M3WnH3KrB5tsiZf"
+:local webhookUrl "your webhook url"
 
 /export file=$fileName
 
