@@ -36,3 +36,13 @@ Example message:
 This might look something like this in your scheduler:
 
 ![image](https://github.com/user-attachments/assets/d70cdd41-900f-46b0-af86-28db28d4bc47)
+
+---
+## [Save backup to Discord](https://github.com/Shirozy/MikroTik-Scripts/tree/main/backupToDiscord)
+![image](https://github.com/user-attachments/assets/ab8a256e-99f0-456b-9220-97d8552ade61)
+
+This script can be run on your system, or rather on a server PC connected to the network, and will allow you to schedule automatic backups to your Discord server. You can of course change this to go send to anywhere else, such as making it send to Telegram, or another platform. 
+
+This might look something like this once setup:
+![image](https://github.com/user-attachments/assets/ff92a62a-afcd-417c-8576-48aad4673a08)
+
